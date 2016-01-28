@@ -3,4 +3,3 @@ programs for sending and receiving data over CAN (Controller Area Network) bus. 
 
 Arduino code for CAN bus test
 
-CAN bus library used: https://github.com/collin80/due_can
